@@ -1,0 +1,19 @@
+{
+  "lsps": [
+    {
+      "id": "typescript",
+      "extensions": ["ts", "tsx", "js", "jsx"],
+      "languages": ["typescript", "javascript"],
+      "command": "typescript-language-server",
+      "args": ["--stdio"]
+    },
+    {
+      "id": "python",
+      "extensions": ["py"],
+      "languages": ["python", "python2", "python3"],
+      "command": "pylsp",
+      "args": []
+    }
+  ],
+  "workspace": "/home/nole/dev/solutions/dream-weaver/aro_poc"
+}

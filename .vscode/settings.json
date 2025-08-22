@@ -6,5 +6,10 @@
       "pylsp",
       "Taskfile",
       "venv"
-    ]
+    ],
+    "workbench.colorCustomizations": {
+      "activityBar.background": "#452042",
+      "titleBar.activeBackground": "#612C5D",
+      "titleBar.activeForeground": "#FCF9FC"
+    }
 }
